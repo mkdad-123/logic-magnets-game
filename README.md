@@ -8,7 +8,6 @@ Logic Magnets Game is a puzzle game where you move magnets to reach the goal. Th
 ## Table of Contents
 
 Logic_Magnets_Game/
-├── Game/                   # Main directory for game-related code
 │   ├── Actions/            # Directory for action-related modules
 │   │   ├── magnets.py      # Module for magnet actions
 │   │   ├── moveBlocks.py   # Module for moving blocks
@@ -37,7 +36,7 @@ To install the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/USERNAME/Logic-Magnets-Game.git
+   git clone https://github.com/mkdad-123/logic-magnets-game.git
 
 2. Navigate to the project directory:
     cd Logic-Magnets-Game
