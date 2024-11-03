@@ -7,7 +7,25 @@ Logic Magnets Game is a puzzle game where you move magnets to reach the goal. Th
 
 ## Table of Contents
 
-Logic_Magnets_Game/ │ ├── Actions/ # Directory for action-related modules │ │ ├── magnets.py # Module for magnet actions │ │ ├── moveBlocks.py # Module for moving blocks │ │ ├── pull.py # Module for pulling actions │ │ ├── push.py # Module for pushing actions │ ├── Structures/ # Directory for structural components │ │ ├── level.py # Module defining game levels │ │ ├── state.py # Module defining game states │ │ └── magnets.py # Module defining magnets │ ├── Logic/ # Directory for logic-related modules │ │ ├── bfs.py # Module for BFS algorithm │ │ ├── dfs.py # Module for DFS algorithm │ │ ├── gameplay.py # Module for gameplay logic │ │ ├── explore_search_space.py # Module for exploring search space │ ├── main.py # Main entry point of the game │ └── utils.py # Utility functions and helpers ├── README.md # This file, explaining the project └── requirements.txt # List of dependencies
+Logic_Magnets_Game/
+│   ├── Actions/            # Directory for action-related modules
+│   │   ├── magnets.py      # Module for magnet actions
+│   │   ├── moveBlocks.py   # Module for moving blocks
+│   │   ├── pull.py         # Module for pulling actions
+│   │   ├── push.py         # Module for pushing actions
+│   ├── Structures/         # Directory for structural components
+│   │   ├── level.py        # Module defining game levels
+│   │   ├── state.py        # Module defining game states
+│   │   └── magnets.py      # Module defining magnets
+│   ├── Logic/              # Directory for logic-related modules
+│   │   ├── bfs.py          # Module for BFS algorithm
+│   │   ├── dfs.py          # Module for DFS algorithm
+│   │   ├── gameplay.py     # Module for gameplay logic
+│   │   ├── explore_search_space.py # Module for exploring search space
+│   ├── main.py             # Main entry point of the game
+│   └── utils.py            # Utility functions and helpers
+├── README.md               # This file, explaining the project
+└── requirements.txt        # List of dependencies
 
 
 ## Description
