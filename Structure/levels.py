@@ -62,7 +62,7 @@ class Level:
 
         try:
 
-            level_num = int(input("Choose a level (1 ---> 50 ) : "))
+            level_num = int(input("Choose a level (1 ---> 5 ) : "))
 
             if 1 <= level_num <= 25:
 
